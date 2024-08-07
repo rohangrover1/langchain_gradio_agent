@@ -1,0 +1,8 @@
+python-dotenv==1.0.1
+openai==1.37.0
+langchain==0.2.11
+langchain-community==0.2.10
+langchain-core==0.2.23
+langchain-openai==0.1.17
+gradio==4.38.1
+gradio_client==1.1.0
